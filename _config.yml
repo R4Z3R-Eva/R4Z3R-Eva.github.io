@@ -1,6 +1,6 @@
 title: Gibish Archives
 description: All versions of gibish in one place!
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+show_downloads: true
 google_analytics: [Your Google Analytics tracking ID]
 
 remote_theme: pages-themes/midnight@v0.2.0
