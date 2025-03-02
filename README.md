@@ -15,7 +15,7 @@ https://www.mediafire.com/file/zh3s6jp6ty5yzyw/1.0.3_%2528Broken%2529.zip/file
 https://www.mediafire.com/file/r1jbrrqzoflgoo7/1.0.3_%2528z_3rd_boss_update%2529.zip/file
 
 ## 1.0.2
-### mall Patches
+### Small Patches
 
 https://www.mediafire.com/file/8q9xyr0y8l1l1tu/1.0.2.zip/file
 
